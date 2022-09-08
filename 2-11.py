@@ -1,1 +1,1 @@
-import this
+import this # Выводим постулаты Python на экран
