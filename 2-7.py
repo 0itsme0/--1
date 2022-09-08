@@ -1,5 +1,4 @@
-name = (' бебра         ')
-print(name)
-print(name.lstrip())
-print(name.rstrip())
-print(name.strip())
+name = ('     бебра              ') # Вводим переменную с отступами по сторонам
+print(name.strip()) # Используем метод strip для удаления отступов с двух сторон
+print(name.rstrip()) # Используем метод rstrip для удаления отступов с правой стороны
+print(name.lstrip())# Используем метод lstrip для удаления отступов с левой стороны
