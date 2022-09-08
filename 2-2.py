@@ -1,5 +1,5 @@
-message = "Hello ИСП-21"
-print(message)
+message = "Hello ИСП-21" # Вводим переменную с сообщением
+print(message) # Выводим сообщение на экран
 
-message = "Hello, guest"
-print(message)
+message = "Hello, guest" # Вводим новую переменную с новым значением
+print(message) # Выводим сообщение с новой переменной
