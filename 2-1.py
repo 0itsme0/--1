@@ -1,2 +1,2 @@
-message = "Hello ИСП-21"
-print(message)
+message = "Hello ИСП-21" # Вводим переменную с нашим сообщением
+print(message) # Выводим сообщение
