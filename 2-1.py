@@ -8,3 +8,12 @@ class Person:
      self.__age = age
     else:
       print('Недопустимый возраст')
+   def get_age(self):
+       return self.__age
+    
+   def get_name(self):
+       return self.__age
+    
+   def display_info(self):
+       print('Imya:', self.__name, '\tВозраст:', self.__age)
+     
