@@ -1,5 +1,5 @@
-message = "Hello ИСП-21" # Вводим переменную с сообщением
-print(message) # Выводим сообщение на экран
-
-message = "Hello, guest" # Вводим новую переменную с новым значением
-print(message) # Выводим сообщение с новой переменной
+def set_age(self, value)
+  if value in range(1, 100):
+    self.__age = value
+  else:
+    print('Недопустимый возраст')
